@@ -1,6 +1,5 @@
-# FP-Growth vs Apriori
+# Apriori vs. FP-Growth vs. Fp-Growth (PySpark)
 
-Projekt zum Benchmark von `apriori`, `fpgrowth` (mlxtend) und `PySpark FP-Growth`.
 
 ## Projektkontext und Beobachtungen
 
