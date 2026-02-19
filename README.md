@@ -72,7 +72,7 @@ Datensatztypen im Versuch:
 
 1. In den Projektordner wechseln:
 
-2. Virtuelle Umgebung anlegen:
+2. Virtuelle Umgebung anlegen (getestet Python 3.11.9 wegen Kompatibilität zur PySpark Api):
    ```powershell
    python -m venv .venv
    ```
